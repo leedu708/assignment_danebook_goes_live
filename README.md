@@ -1,6 +1,6 @@
 danebook_goes_live
 ==================
 
-This is your README!
+by [Dustin Lee](https://github.com/leedu708)
 
-Dustin Lee
+[An assignment from Viking Code School](http://www.vikingcodeschool.com)
